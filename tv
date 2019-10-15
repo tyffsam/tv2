@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://comunidade.f7noticias.com/wp-content/uploads/2019/09/afazenda-logo_25e81be8deda541ae62e7d306bb68cf6306a8af1.jpeg" group-title="Variedade",A Fazenda 11
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519" group-title="Filme e 15|false|true|10",A&E HD
+http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+#EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519" group-title="Filme e 15|false|true|10",A&E HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_AE_ALTER/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_SBT.png" group-title="TV Aberta",SBT
+http://load.kudaplay.tv/aovivo/SD_SBT/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+#EXTINF:-1 type="stream" tvg-id="SBT FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_SBT.png" group-title="Nao categorizado",SBT FHD
+http://load.kudaplay.tv/aovivo/FHD_SBT/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+#EXTINF:-1 type="stream" tvg-id="SBT HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_SBT.png" group-title="TV Aberta",SBT HD
+http://load.kudaplay.tv/aovivo/HD_SBT/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Discovery_Channel_claro-tv-.png" group-title="Documentario",Discovery Channel
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
+
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=b65dc9e59b5c63838b34318b6e859318
